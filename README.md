@@ -8,9 +8,9 @@ Código que implementa o envio de SMS para celulares por meio de uma API privada
 
 ## As Tecnologias
 
-Node.js
-API TeleSign
-SDK TeleSign
+- Node.js
+- API TeleSign
+- SDK TeleSign
 
 
 
